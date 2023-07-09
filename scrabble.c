@@ -30,12 +30,7 @@ int main(void)
     else{
       printf("Tie!\n");
     }
-    printf("%i\n",score1);
-    printf("%i\n",score2);
-
-
-
-
+    
 }
 // Function to convert lowercase letters of a string to uppercase
 string uppercase(string word)
